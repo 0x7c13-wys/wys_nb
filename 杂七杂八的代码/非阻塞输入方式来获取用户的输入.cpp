@@ -8,19 +8,19 @@ int main() {
     while (1) {
         if (_kbhit()) {  // 检查是否有输入
             ch = _getch();  // 获取字符
-            if(ch == "w" || ch == "W"){
+            if(ch == 'w' || ch == 'W'){
                 y = -1;
                 x = 0; 
             }
-            if(ch == "s" || ch == "S"){
+            if(ch == 's' || ch == 'S'){
                 y = 1;
                 x = 0; 
             }
-            if(ch == "a" || ch == "A"){
+            if(ch == 'a' || ch == 'A'){
                 y = 0;
                 x = -1; 
             }
-            if(ch == "d" || ch == "D"){
+            if(ch == 'd' || ch == 'D'){
                 y = 0;
                 x = 1; 
             }
