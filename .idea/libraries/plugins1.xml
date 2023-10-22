@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="plugins1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/C or c++/idea_unlock/plugins/hideme.jar!/" />
+      <root url="jar://$PROJECT_DIR$/C or c++/idea_unlock/plugins/dns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/C or c++/idea_unlock/plugins/power.jar!/" />
+      <root url="jar://$PROJECT_DIR$/C or c++/idea_unlock/plugins/url.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

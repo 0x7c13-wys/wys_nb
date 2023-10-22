@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/Gluttonous Snake/Gluttonous Snake.iml" filepath="$PROJECT_DIR$/Java/Gluttonous Snake/Gluttonous Snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Stu_Information/Stu_Information.iml" filepath="$PROJECT_DIR$/Java/Stu_Information/Stu_Information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/learning/learning.iml" filepath="$PROJECT_DIR$/Java/learning/learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/sy/sy.iml" filepath="$PROJECT_DIR$/Java/sy/sy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wys_nb.iml" filepath="$PROJECT_DIR$/.idea/wys_nb.iml" />
+    </modules>
+  </component>
+</project>
