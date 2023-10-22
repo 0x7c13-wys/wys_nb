@@ -1,4 +1,4 @@
-public class main {
+public class main6 {
     public static void main(String[] args) {
 
         CPU cpu = new CPU();

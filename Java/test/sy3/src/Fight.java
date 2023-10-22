@@ -12,7 +12,7 @@ public class Fight {
       tank2.speedUp(90);
       System.out.println("tank1目前的速度："+tank1.getSpeed());
       System.out.println("tank2目前的速度："+tank2.getSpeed());
-      tank1.speedDown(12);//【代码7】 tank1的速度减小15
+      tank1.speedDown(15);//【代码7】 tank1的速度减小15
       tank2.speedDown(30);// 【代码8】tank2的速度减小30
       System.out.println("tank1目前的速度："+tank1.getSpeed());
       System.out.println("tank2目前的速度："+tank2.getSpeed());
