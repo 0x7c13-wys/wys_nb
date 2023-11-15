@@ -1,20 +1,19 @@
-public class Lader extends shape{
+public class Lader extends Shape {
 	double above;
 	double bottom;
 	double height;
 	
-	public Lader(double above, double bottom, double height){
-		 above = 0;
-		 bottom = 0;
-		 height = 0;
+	public Lader(double a, double b, double c){
+		 above = a;
+		 bottom = b;
+		 height = c;
 		
 	}
 	
 	public double getArea() {
 		
-		double Area = (above + bottom) * height / 2;
-		return Area;
-		
+		return (above + bottom) * height / 2;
+
 	}
 
 }
