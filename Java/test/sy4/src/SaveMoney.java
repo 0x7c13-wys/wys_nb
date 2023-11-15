@@ -16,7 +16,7 @@ public class SaveMoney {
 	    bank2.year = 8.236;
 	    bank2.setInterestRate(0.035);
 	    double interest2=bank2.computerInterest();
-	    System.out.printf("两个银行利息相差%f元\n ",interest2-interest1);
+	    System.out.printf("wys1012 说两个银行利息相差%f元\n ",interest2-interest1);
 
 	   }
 

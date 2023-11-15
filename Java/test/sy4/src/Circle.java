@@ -1,15 +1,15 @@
-public class Circle extends shape{
+public class Circle extends Shape {
 	
 	double r;
 	
-	public Circle() {
-		r = 0;
+	public Circle(double a) {
+
+		r = a;
 	}
 	
 	public double getArea() {
 		
-		double Area = 0.5 * 3.14 * r * r;
-		return Area;
+		return  0.5 * 3.14 * r * r;
 	}
 
 }

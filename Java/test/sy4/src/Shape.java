@@ -1,12 +1,7 @@
-public class shape {
+public abstract class Shape {
 	
 
 	
-	public double getArea(double a, double b, double c) {
-		
-		double Area = a * b * c;
-		return Area;
-		
-	}
+	public abstract double getArea();
 
 }

@@ -1,2 +1,16 @@
-package PACKAGE_NAME;public class Computer {
+public class Computer {
+
+    MobileStorage storage;
+
+    public void set(MobileStorage storage){
+        this.storage = storage;
+    }
+
+    public void ReadData(){
+        storage.read();
+    }
+
+    public void WriteData(){
+        storage.write();
+    }
 }

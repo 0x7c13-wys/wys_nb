@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class MobileStorage {
+abstract public class MobileStorage {
+
+    abstract public void read();
+    abstract public void write();
 }
