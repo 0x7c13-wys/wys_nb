@@ -31,9 +31,11 @@ public class TestFinally {
     public static void main(String args[]) {
         mathodA();
         System.out.println("mathodA方法调用结束 ");
+        //王玉升
         mathodC();
         mathodB();//【代码3】调用mathodB()方法,并对异常进行捕获处理
         System.out.println("mathodB方法调用结束 ");
+        //王玉升
         mathodC();
         System.out.println("mathodC方法调用结束 ");
     }

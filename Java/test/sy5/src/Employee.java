@@ -32,9 +32,9 @@ class Employee {
         if (salary <1000){
             throw new SalarySmall();
         } else if (salary > 50000) {
-            throw new SalaryBig();
+            throw new SalaryBig();//王玉升
         }else {
-            System.out.println("工资增加" + salary + "元");
+            System.out.println("wys工资增加" + salary + "元");
             this.salary += salary;
 
         }

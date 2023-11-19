@@ -5,6 +5,7 @@ class MobileShop {
 
     private int mobileAmount;  //手机的数量
     MobileShop(){
+        //王玉升
         purchaseMoney1 = new InnerPurchaseMoney (20000);// 创建价值为20000的购物卷purchaseMoney1
         purchaseMoney2 = new InnerPurchaseMoney(10000);// 【代码2】创建价值为10000的购物卷purchaseMoney2
     }

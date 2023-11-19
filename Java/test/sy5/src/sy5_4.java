@@ -6,6 +6,7 @@ public class sy5_4 {
             employee1.minusSalary(500);
             employee1.addSalary(1000);
             employee1.show();
+            //王玉升
         }catch(Exception e){
             System.out.println("张三,"+e. getMessage ());
         }
@@ -33,6 +34,7 @@ public class sy5_4 {
             Employee ChenHong = new Employee(1003, "陈虹", 45, 47000);
             ChenHong.minusSalary(1000);
             ChenHong.addSalary(1000);
+            //王玉升
             ChenHong.show();
         }catch (Exception e){
             System.out.println("陈虹" + e.getMessage());// 【代码7】创建属性为(1003,"陈虹",45,47000)的员工，并各模拟一次减少1000元工资，增加5000元工资，模仿employee1员工的形式写
@@ -42,6 +44,7 @@ public class sy5_4 {
             employee1=new Employee(1005,"汪成功",45,40000);
             employee1.minusSalary(1000);
             employee1.addSalary(5000);
+            //王玉升
             employee1.show();
         }catch(Exception e){
             System.out.println("陈虹,"+e. getMessage ());

@@ -1,4 +1,4 @@
 interface  SpeakHello {
-    void speakHello();
+    void speakHello();//王玉升
 }
 
