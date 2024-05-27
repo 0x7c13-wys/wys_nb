@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="780928c2-93a0-4b17-92f9-30c6a4d853fe" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java/Stu_Information/src/教务管理系统/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Stu_Information/src/教务管理系统/data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Stu_Information/src/教务管理系统/grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Stu_Information/src/教务管理系统/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/adv/Advertisement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/adv/AdvertisementBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/adv/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/adv/BlackLandCorp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/adv/WhiteCloudCorp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/adv/作业2.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/gra/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/gra/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/test/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/test/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/exam/src/test/com.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/examkaoshi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/src/2022级Java实验考查1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/src/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/src/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/examkaoshi/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/src/一/StudentName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/src/三/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/src/三/Sy7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/src/二/Sy10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/src/四/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/src/实验十泛型与集合.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy10/sy10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/ChoiceListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/ComputerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/Sy6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/WindowLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/WindowShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/src/实验七事件处理.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy7/sy7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/long.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/dierti/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/dierti/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/disanti/RandomReadWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/disanti/long.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/diyiti/SecretExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/diyiti/hello.secret" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/diyiti/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/src/实验八输入输出流.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy8/sy8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/一/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/一/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/一/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/三/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/二/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/五/AlarmClockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/五/AlarmClockThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/五/ElectronicTimerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/四/Land.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/src/四/Village.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/test/sy9/sy9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C or c++/Gluttonous Snake/cursor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../C or c++/Gluttonous Snake/cursor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C or c++/Gluttonous Snake/output/game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C or c++/Gluttonous Snake/output/game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Stu_Information/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Stu_Information/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Stu_Information/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Stu_Information/src/data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Stu_Information/src/grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Stu_Information/src/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dzOMtJ53GmMYWuBoLVCv4fYqDu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="780928c2-93a0-4b17-92f9-30c6a4d853fe" name="更改" comment="" />
+      <created>1711007396314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711007396314</updated>
+      <workItem from="1711007405879" duration="38000" />
+      <workItem from="1711107904336" duration="8000" />
+      <workItem from="1711456404376" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+﻿  game.cpp
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(123,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“game.cpp”)
+  
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(149,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“game.cpp”)
+  
+  make_food.h
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(22,24): error C2065: “col”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(23,24): error C2065: “row”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(25,28): error C2065: “col”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(28,28): error C2065: “row”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(30,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(31,5): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(44,16): error C2065: “Sqlist”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(44,24): error C2065: “S”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(44,27): error C2062: 意外的类型“int” 
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(44,60): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\make_food.h(44,60): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  screen.h
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(50,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(75,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(97,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(120,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(148,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(176,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(231,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(232,5): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(239,5): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(249,5): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(251,5): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(262,9): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(280,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(303,5): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(327,6): error C2182: “Print_Grade”: “void” 这一使用无效
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(327,18): error C2065: “Sqlist”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(327,25): error C2146: 语法错误: 缺少“)”(在标识符“S”的前面)
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(327,28): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\screen.h(327,28): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  snake.h
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(102,5): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(103,5): error C2065: “cin”: 未声明的标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(123,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(149,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(168,13): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(169,13): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(173,17): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(178,13): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(184,13): error C3861: “color”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(185,13): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(189,17): error C3861: “CursorJump”: 找不到标识符
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(194,13): error C3861: “CursorJump”: 找不到标识符
+  正在生成代码...

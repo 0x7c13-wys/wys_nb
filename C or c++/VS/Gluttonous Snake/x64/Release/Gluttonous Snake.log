@@ -1,0 +1,7 @@
+﻿  game.cpp
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(123,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“game.cpp”)
+  
+C:\Users\wys03\Desktop\wys_nb\C or c++\VS\Gluttonous Snake\snake.h(149,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“game.cpp”)
+  
