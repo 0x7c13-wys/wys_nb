@@ -1,4 +1,3 @@
-package exam1;
 import java.lang.String;
 
 abstract class Employee {
@@ -9,7 +8,7 @@ abstract class Employee {
      * ID       员工的工号
      * salary   员工的薪水
      */
-    private String name;
+    private String name;                //王玉升
     private int ID;
     private int salary;
 
@@ -21,10 +20,10 @@ abstract class Employee {
      * @param ID            员工的工号
      * @param salary        员工的薪水
      */
-    public Employee(java.lang.String name, int ID, int salary) {
+    public Employee(String name, int ID, int salary) {
         this.name = name;
         this.ID = ID;
-        this.salary = salary;
+        this.salary = salary;               //王玉升1012
     }
 
 

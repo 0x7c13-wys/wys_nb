@@ -1,3 +1,5 @@
+package 教务管理系统;
+
 import java.util.concurrent.TimeUnit;
 
 public class Menu {

@@ -37,7 +37,7 @@ void CursorJump(int x, int y){
 /*
 ÉèÖÃÑÕÉ«
         x@7:ºÚµ×°××Ö
-        x@10ºÚµ×ÂÌ×Ö
+        x@10:ºÚµ×ÂÌ×Ö
 */
 void color(int x){
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),x);  

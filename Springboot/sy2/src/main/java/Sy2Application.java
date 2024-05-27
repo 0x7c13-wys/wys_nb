@@ -1,4 +1,4 @@
-package main.java.sy2;
+package main.java;
 
 
 import org.springframework.boot.SpringApplication;

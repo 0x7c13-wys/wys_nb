@@ -1,0 +1,5 @@
+spring:
+  message:                  #定义资源文件，多个文件用“，”分开
+    basename:il8n/Message
+  server:
+    port:80

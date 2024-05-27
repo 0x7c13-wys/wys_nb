@@ -4,7 +4,7 @@ abstract class AdvertisementBoard extends Advertisement {
 
 
 
-    abstract void show(Advertisement adver);
+//    abstract void show(Advertisement adver);
 
 
 
